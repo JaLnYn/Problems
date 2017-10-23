@@ -4,6 +4,7 @@
 #include <iostream>
 using namespace std;
 //link: https://dmoj.ca/problem/ccc11s3
+ 
 uint power(uint num, int toPowOf){
     uint mult = num;
     if(toPowOf == 0){
